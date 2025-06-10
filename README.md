@@ -29,3 +29,7 @@ A student messaging platform built with Node.js, Express, MongoDB, and JWT authe
 - Real-time chat with Socket.io
 - Password reset flow
 
+---
+
+**Created for academic evaluation.**
+
