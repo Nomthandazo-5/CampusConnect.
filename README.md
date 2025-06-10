@@ -1,4 +1,4 @@
-# CampusConnect 2
+# CampusConnect review 2
 A student messaging platform built with Node.js, Express, MongoDB, and JWT authentication.
 
  🚀 Features
